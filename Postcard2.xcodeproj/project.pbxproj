@@ -13,6 +13,8 @@
 		301BBA081A6CFCBB006CC3F2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 301BBA071A6CFCBB006CC3F2 /* Images.xcassets */; };
 		301BBA0B1A6CFCBB006CC3F2 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 301BBA091A6CFCBB006CC3F2 /* LaunchScreen.xib */; };
 		301BBA171A6CFCBC006CC3F2 /* Postcard2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 301BBA161A6CFCBC006CC3F2 /* Postcard2Tests.swift */; };
+		301BBA221A6CFCF1006CC3F2 /* 2014-01-15-SagradaFamiliasantcer.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 301BBA201A6CFCF1006CC3F2 /* 2014-01-15-SagradaFamiliasantcer.jpg */; };
+		301BBA231A6CFCF1006CC3F2 /* Einstein-formal_portrait-35.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 301BBA211A6CFCF1006CC3F2 /* Einstein-formal_portrait-35.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		301BBA101A6CFCBC006CC3F2 /* Postcard2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Postcard2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		301BBA151A6CFCBC006CC3F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		301BBA161A6CFCBC006CC3F2 /* Postcard2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Postcard2Tests.swift; sourceTree = "<group>"; };
+		301BBA201A6CFCF1006CC3F2 /* 2014-01-15-SagradaFamiliasantcer.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "2014-01-15-SagradaFamiliasantcer.jpg"; sourceTree = "<group>"; };
+		301BBA211A6CFCF1006CC3F2 /* Einstein-formal_portrait-35.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Einstein-formal_portrait-35.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		301BB9FE1A6CFCBB006CC3F2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				301BBA201A6CFCF1006CC3F2 /* 2014-01-15-SagradaFamiliasantcer.jpg */,
+				301BBA211A6CFCF1006CC3F2 /* Einstein-formal_portrait-35.jpg */,
 				301BB9FF1A6CFCBB006CC3F2 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,7 +199,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				301BBA061A6CFCBB006CC3F2 /* Main.storyboard in Resources */,
+				301BBA231A6CFCF1006CC3F2 /* Einstein-formal_portrait-35.jpg in Resources */,
 				301BBA0B1A6CFCBB006CC3F2 /* LaunchScreen.xib in Resources */,
+				301BBA221A6CFCF1006CC3F2 /* 2014-01-15-SagradaFamiliasantcer.jpg in Resources */,
 				301BBA081A6CFCBB006CC3F2 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
